@@ -13,21 +13,13 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object Button1: TButton
-    Left = 8
-    Top = 8
-    Width = 209
-    Height = 25
-    Caption = 'Button1'
-    TabOrder = 0
-  end
   object Button2: TButton
     Left = 223
     Top = 8
     Width = 177
     Height = 25
     Caption = 'Button1'
-    TabOrder = 1
+    TabOrder = 0
   end
   object Button3: TButton
     Left = 406
@@ -35,7 +27,7 @@ object Form1: TForm1
     Width = 209
     Height = 25
     Caption = 'Button1'
-    TabOrder = 2
+    TabOrder = 1
   end
   object Button4: TButton
     Left = 8
@@ -43,15 +35,7 @@ object Form1: TForm1
     Width = 209
     Height = 25
     Caption = 'Button1'
-    TabOrder = 3
-  end
-  object Button5: TButton
-    Left = 223
-    Top = 40
-    Width = 177
-    Height = 25
-    Caption = 'Button1'
-    TabOrder = 4
+    TabOrder = 2
   end
   object Button6: TButton
     Left = 406
@@ -59,7 +43,7 @@ object Form1: TForm1
     Width = 209
     Height = 25
     Caption = 'Button1'
-    TabOrder = 5
+    TabOrder = 3
   end
   object Button7: TButton
     Left = 8
@@ -67,7 +51,7 @@ object Form1: TForm1
     Width = 209
     Height = 25
     Caption = 'Button1'
-    TabOrder = 6
+    TabOrder = 4
   end
   object Button8: TButton
     Left = 223
@@ -75,14 +59,6 @@ object Form1: TForm1
     Width = 177
     Height = 25
     Caption = 'Button1'
-    TabOrder = 7
-  end
-  object Button9: TButton
-    Left = 406
-    Top = 72
-    Width = 209
-    Height = 25
-    Caption = 'Button1'
-    TabOrder = 8
+    TabOrder = 5
   end
 end
