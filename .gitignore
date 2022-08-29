@@ -1,0 +1,12 @@
+
+__history/
+Win32/
+
+*.identcache
+*.stat
+*.dpr.cbk
+*.dpr.cbk
+*.dproj.local
+*.skincfg
+
+
